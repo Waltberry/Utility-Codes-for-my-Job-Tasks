@@ -1,0 +1,5 @@
+# Needed packages/ Versions
+numpy == 1.15.4
+pycodestyle>=2.4.0
+
+$ pip install -r requirements.txt
